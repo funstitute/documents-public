@@ -19,7 +19,7 @@ In accordance with the provisions of Article 10, Paragraph 1 of the Act for Prom
 
 ### Details
 
-1. **Name of Specified Nonprofit Organization**: Specified Nonprofit Organization Future-Connecting Children's Robotics & AI Classroom
+1. **Name of Specified Nonprofit Organization**: Specified Nonprofit Organization The Funstitute for Artificial Intelligence and Robotics
 
 2. **Name of Representative**: Moore Travis
 

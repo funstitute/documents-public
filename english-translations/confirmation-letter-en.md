@@ -4,11 +4,11 @@
 
 ## Confirmation Letter
 
-**Specified Nonprofit Organization Future-Connecting Children's Robotics & AI Classroom** confirmed at the founding general meeting held on __ year __ month __ day that it meets the requirements of Article 2, Paragraph 2, Item 2 and Article 12, Paragraph 1, Item 3 of the Act for Promotion of Specified Nonprofit Activities.
+**Specified Nonprofit Organization The Funstitute for Artificial Intelligence and Robotics** confirmed at the founding general meeting held on __ year __ month __ day that it meets the requirements of Article 2, Paragraph 2, Item 2 and Article 12, Paragraph 1, Item 3 of the Act for Promotion of Specified Nonprofit Activities.
 
 Year __ Month __ Day
 
-**Specified Nonprofit Organization Future-Connecting Children's Robotics & AI Classroom**
+**Specified Nonprofit Organization The Funstitute for Artificial Intelligence and Robotics**
 
 **Founding Representative**
 - **Address or Residence**: Kyoto City, Nakagyo-ku [REDACTED]

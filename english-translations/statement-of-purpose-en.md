@@ -20,6 +20,6 @@ In conjunction with this, we have been developing class materials and formulatin
 
 Year __ Month __ Day
 
-**Specified Nonprofit Organization Future-Connecting Children's Robotics & AI Classroom**
+**Specified Nonprofit Organization The Funstitute for Artificial Intelligence and Robotics**
 
 **Founding Representative Name: ______________**

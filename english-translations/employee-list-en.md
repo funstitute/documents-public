@@ -21,4 +21,4 @@
 
 ---
 
-**Note**: These documents are official application materials for establishing the specified nonprofit organization "Future-Connecting Children's Robotics & AI Classroom." The purpose is to provide robotics and AI education to children in socially and economically difficult situations.
+**Note**: These documents are official application materials for establishing the specified nonprofit organization "The Funstitute for Artificial Intelligence and Robotics." The purpose is to provide robotics and AI education to children in socially and economically difficult situations.
