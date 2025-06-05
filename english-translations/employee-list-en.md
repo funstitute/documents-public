@@ -16,7 +16,7 @@
 | **Miyagawa Emi** | 〒612-8101 Kyoto City, Fushimi-ku [REDACTED] |
 | **Matthew James St. Vincent** | [REDACTED], Footscray VIC 3011<br>Australia |
 | **Boon Lim** | [REDACTED], Tapping WA 6065<br>Australia |
-| **Daniel Bowler** | [REDACTED], Craigie WA 6025<br>Australia |
+| **Danielle Bowler** | [REDACTED], Craigie WA 6025<br>Australia |
 | **Dr. Disney Lee Patrick** | [REDACTED], Frankston South VIC 3199<br>Australia |
 
 ---
