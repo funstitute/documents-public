@@ -1,153 +1,167 @@
-# Articles of Incorporation of Specified Nonprofit Organization The Funstitute for Artificial Intelligence and Robotics
+# Articles of Incorporation
+
+**Specified Nonprofit Corporation: Mirai e Tsunagu Kodomo Robot & AI Classroom**  
+*(English name: The Funstitute for Artificial Intelligence and Robotics – FAIR)*
 
 ## Chapter 1: General Provisions
 
-### (Name)
-**Article 1** This organization shall be called "Specified Nonprofit Organization The Funstitute for Artificial Intelligence and Robotics."  
-The English designation shall be "The Funstitute for Artificial Intelligence and Robotics" (abbreviated as "FAIR").
+### Article 1 (Name)
+The name of this corporation shall be Tokutei Hieiri Katsudō Hōjin Mirai e Tsunagu Kodomo Robot & AI Kyōshitsu.  
+The English name shall be The Funstitute for Artificial Intelligence and Robotics (FAIR).
 
-### (Office)
-**Article 2** This organization shall establish its principal office at 452 Sakai-cho, Nakagyo-ku, Kyoto City, Kyoto Prefecture, High-Mart Fuyacho 202.
+### Article 2 (Office)
+The principal office shall be located at:  
+[REDACTED], Nakagyō-ku, Kyoto-shi, Kyoto 604-8065  
 
-### (Purpose)
-**Article 3** The purpose of this organization is to expand children's skills, creativity, and future possibilities by conducting educational activities related to robotics, programming, and practical application of modern artificial intelligence for children in socially and economically difficult situations, thereby contributing to improving the technological capabilities of Japan's future workforce and realizing a more opportunity-balanced society.
+### Article 3 (Purpose)
+This corporation, by providing education in robotics, programming, and the practical use of modern artificial intelligence to socioeconomically disadvantaged children, aims to expand their skill set, creativity, and future possibilities, and thereby contribute to preparing Japan's future workforce for key technologies and fostering a society with more equitable opportunities.
 
-### (Types of Specified Nonprofit Activities)
-**Article 4** To achieve the purpose set forth in the preceding article, this organization shall conduct the following activities as listed in the attached table of Article 2 of the Act for Promotion of Specified Nonprofit Activities:
-1. Activities to promote academic, cultural, artistic, or sports development
-2. Activities to promote the sound development of children
-3. Activities to coordinate, advise, or assist the operations or activities of organizations conducting the activities listed in the preceding items
+### Article 4 (Types of Specified Nonprofit Activities)
+To achieve the objectives set forth in the preceding article, the corporation shall engage in the following activities under the NPO Act's designated fields:
 
-### (Business)
-**Article 5** To achieve the purpose set forth in Article 3, this organization shall conduct the following business:
+- Activities that promote academics, culture, arts, or sports
+- Activities that foster the sound development of children
+- Support activities for other nonprofit organizations engaged in the above
 
-1. Planning and implementation of classes, workshops, events, etc. related to robotics, programming, and artificial intelligence
-2. Development and distribution of educational materials
-3. Educational support projects in collaboration with other organizations, companies, and educational institutions
-4. Other business necessary to achieve the purpose
+### Article 5 (Activities)
+To achieve its purpose, the corporation shall conduct the following:
+
+- Planning and holding of robotics, programming, and AI-related workshops and events for children
+- Development and distribution of educational materials
+- Collaborative educational projects with other organizations, companies, or schools
+- Any other activities necessary to achieve the stated purpose
 
 ## Chapter 2: Members
 
-### (Types of Members)
-**Article 6** The members of this organization shall be of the following two types:
-1. **Regular Members** Individuals or organizations who have joined agreeing with the purpose of this organization and who have voting rights in the general assembly.
-2. **Supporting Members** Individuals or organizations who agree with the purpose of this organization and support its activities, but do not have voting rights.
+### Article 6 (Types of Members)
+The corporation shall have the following four types of members:
 
-### (Admission)
-**Article 7**
-1. Those who wish to join as regular members or supporting members shall apply to the representative director using the membership application form separately determined by the representative director.
-2. The representative director shall approve the admission of those who apply for regular membership if they recognize that the applicant agrees with the purpose of this organization and has the intention to participate in activities, unless there are justifiable reasons not to do so. For those who apply for supporting membership, admission shall be approved if they recognize that the applicant agrees with the purpose of this organization and has the intention to support its business.
-3. If the representative director does not approve admission under the provisions of paragraph 2, they must promptly notify the applicant in writing with reasons.
+- **Founding Members**: Individuals or organizations who contributed to the establishment of this corporation and support its purpose, having voting rights at the General Meeting, with no membership fee.
+- **Supporting Members**: Individuals or organizations who support the corporation's purpose and activities, without voting rights.
+- **Standard Members**: Individuals or organizations who support the corporation's purpose and have access to educational materials, without voting rights.
+- **Active Members**: Individuals or organizations who support the corporation's purpose and actively participate in activities, having voting rights at the General Meeting and rights to access educational materials and participate in development.
 
-### (Membership Fees)
-**Article 8** No membership fees shall be collected from members.
+### Article 7 (Admission)
+1. Any individual or entity wishing to join as a regular member or a supporting member shall apply to the Representative Director using the membership application form separately prescribed by the Representative Director.
+2. In the case of an applicant for regular membership, the Representative Director must approve the admission if it is recognized that the applicant supports the purposes of this NPO and intends to participate in its activities, unless there is a justifiable reason not to do so. In the case of an applicant for supporting membership, the Representative Director shall approve the admission if it is recognized that the applicant supports the purposes of this NPO and intends to support its projects.
+3. If the Representative Director does not approve admission pursuant to the provisions of Paragraph 2, he/she must promptly notify the applicant to that effect in writing, along with the reason(s).
 
-### (Withdrawal)
-**Article 9** Members may withdraw voluntarily.
+### Article 8 (Membership Fees)
+1. Annual membership fees shall be as follows:
+   - **Founding Members**: Free
+   - **Supporting Members**: ¥3,000 per year
+   - **Standard Members**: ¥8,000 per year
+   - **Active Members**: ¥15,000 per year
+2. The timing, method of payment, and other necessary matters concerning membership fees shall be separately determined by the Board of Directors.
+3. Paid membership fees shall not be refunded, except when the Board of Directors recognizes special circumstances.
 
-### (Expulsion)
-**Article 10** When a member damages the honor of this organization or acts contrary to its purpose, they may be expelled by resolution of the general assembly.
+### Article 9 (Withdrawal)
+Members may withdraw from the corporation at any time.
+
+### Article 10 (Expulsion)
+Members may be expelled by a resolution of the General Meeting if they damage the reputation of the corporation or act against its purpose.
+
+### Article 11 (Member Rights)
+1. Founding Members and Active Members shall have voting rights at the General Meeting.
+2. Standard Members and Active Members shall have access rights to educational materials and resources developed or provided by this corporation.
+3. Active Members shall have, in addition to the rights stated in the preceding paragraph, the right to participate in educational material development and pull request rights to GitHub repositories.
+4. Specific rights and obligations of each member category shall be separately determined by the Board of Directors.
 
 ## Chapter 3: Officers
 
-### (Types and Number of Officers)
-**Article 11** This organization shall have the following officers:
-1. **Directors** 3 or more
-2. **Auditor** 1
+### Article 12 (Types and Number of Officers)
+The corporation shall appoint the following officers:
+- Three or more Directors
+- One Auditor
 
-### (Selection of Officers)
-**Article 12** Officers shall be selected at the general assembly.
+### Article 13 (Election of Officers)
+Officers shall be elected at the General Meeting.
 
-### (Duties of Officers)
-**Article 13**
-1. The representative director shall represent this organization and supervise its overall business.
-2. Directors shall constitute the board of directors and execute the business of this organization based on the provisions of these articles of incorporation and resolutions of the board of directors.
-3. The auditor shall perform the following duties:
-   - (1) Audit the status of business execution by directors.
-   - (2) Audit the financial status of this organization.
-   - (3) If, as a result of audits under the preceding two items, fraudulent acts or serious facts violating laws or these articles of incorporation regarding the business or property of this organization are discovered, report this to the general assembly or supervisory authority.
-   - (4) When necessary to make the report in the preceding item, convene the general assembly.
-   - (5) Express opinions to directors regarding the status of business execution by directors or the financial status of this organization.
+### Article 14 (Duties of Officers)
+1. The Representative Director shall represent this NPO and oversee its operations.
+2. Directors shall constitute the board of directors and execute the operations of this NPO based on the provisions of these articles of incorporation and resolutions of the board of directors.
+3. Auditors shall perform the following duties:
+   - (1) To audit the status of the directors' execution of operations.
+   - (2) To audit the status of this NPO's assets.
+   - (3) If, as a result of the audits prescribed in the preceding two items, any misconduct or material fact in violation of laws, regulations, or the articles of incorporation is discovered concerning the operations or assets of this NPO, to report such findings to the general meeting or the competent authority.
+   - (4) To convene a general meeting when deemed necessary for the purpose of reporting as prescribed in the preceding item.
+   - (5) To state opinions to the directors regarding the status of the execution of operations or the status of this NPO's assets.
 
-### (Term of Office)
-**Article 14** The term of office for officers shall be 2 years, and reappointment is not prohibited.
+### Article 15 (Term of Office)
+Officers shall serve a term of two years and may be reappointed.
 
-### (Filling Vacancies)
-When more than one-third of the prescribed number of directors or auditors are absent, replacements must be appointed without delay.
+### Article 16 (Supplementing Vacancies)
+If the number of Directors or Auditors falls below two-thirds of their fixed number [as stipulated in these Articles], such vacancies must be filled without delay.
 
-### (Officer Compensation, etc.)
-1. Officers may receive compensation within the range of one-third or less of their total number.
-2. Officers may be reimbursed for expenses required to execute their duties.
-3. Necessary matters regarding the preceding two paragraphs shall be separately determined by the representative director through resolution of the general assembly.
+### Article 17 (Remuneration, etc., for Officers)
+1. Officers, up to a limit of one-third of the total number of officers, may receive remuneration.
+2. Officers may be reimbursed for expenses incurred in performing their duties.
+3. Necessary matters concerning the preceding two paragraphs shall be determined separately by the Representative Director following a resolution of the general meeting.
 
-## Chapter 4: General Assembly
+## Chapter 4: General Meeting
 
-### (Composition)
-**Article 15** The general assembly shall be composed of regular members.
+### Article 18 (Composition)
+The General Meeting shall be composed of Founding Members and Active Members.
 
-### (Authority)
-**Article 16** The general assembly shall resolve the following matters:
-1. Amendment of articles of incorporation
-2. Business plans and revenue/expenditure budgets and their amendments
-3. Business reports and financial statements
-4. Selection or dismissal of officers, their duties and compensation
-5. Expulsion of members
-6. Dissolution of the organization
-7. Other important matters regarding operations
+### Article 19 (Authority)
+The General Meeting shall resolve the following matters:
+- Amendments to the Articles of Incorporation
+- Activity plans and budgets, and changes thereto
+- Activity reports and financial statements
+- Election, dismissal, duties and remuneration of officers
+- Expulsion of members
+- Dissolution of the corporation
+- Other important matters relating to operation
 
-### (Convening)
-**Article 17** The general assembly shall be held once a year and additionally as necessary.
+### Article 20 (Convening)
+The General Meeting shall be held at least once per year or as necessary.
 
-### (Quorum)
-**Article 18** The general assembly cannot be opened without the attendance of more than half of all regular members. When there are voters by written or electronic means or proxy voters, their number shall be included in the number of regular member attendees.
+### Article 21 (Quorum)
+A general meeting shall not be opened unless at least half (1/2) of all Founding Members and Active Members combined are present. Members participating by written or electromagnetic means, or by proxy, shall be counted as present for the purpose of determining quorum, provided they are Founding Members or Active Members.
 
-### (Voting Method)
-**Article 19** Resolutions of the general assembly shall be made by majority approval of attending regular members.
+### Article 22 (Decision-making)
+Resolutions shall be adopted by a majority of the votes of Full Members in attendance.
 
-### (Voting by Written or Electronic Means)
-**Article 20** Resolutions of the general assembly of this organization may be conducted by written or electronic means (LINE, Facebook Messenger, WhatsApp, email, etc.).  
-In general assemblies conducted by electronic means, "attendance" refers to regular members who exercised their voting rights (including expressions of approval, opposition, or abstention) by the deadline specified in the meeting convocation notice, or expressed their intention to attend by separately determined methods. Regular members who did not express their intention by the deadline shall be deemed absent from the general assembly.
+### Article 23 (Written or Electronic Voting)
+1. The General Meeting may be conducted via written or electromagnetic means, such as LINE, Facebook Messenger, WhatsApp, email etc
+2. For general meetings conducted by electronic means, a regular member shall be deemed 'present' if they have exercised their vote (including voting for, against, or abstaining) by the specified deadline, or have otherwise formally registered their attendance through a prescribed method. Regular members who do not respond or vote by the deadline shall be considered 'absent' from that specific general meeting.
 
 ## Chapter 5: Assets and Accounting
 
-### (Fiscal Year)
-**Article 21** The fiscal year of this organization shall begin on April 1 and end on March 31 of the following year.
+### Article 24 (Fiscal Year)
+The fiscal year shall begin on April 1 and end on March 31 of the following year.
 
-### (Business Reports, etc.)
-**Article 22** After the end of each fiscal year, business reports, revenue/expenditure statements, balance sheets, and property inventories must be prepared, audited by the auditor, and approved by the general assembly.
+### Article 25 (Reports)
+At the end of each fiscal year, the corporation shall prepare an activity report, income and expenditure statement, balance sheet, and inventory of assets. These must be audited by the Auditor and approved by the General Meeting.
 
-## Chapter 6: Amendment of Articles of Incorporation and Dissolution
+## Chapter 6: Amendments and Dissolution
 
-### (Amendment of Articles of Incorporation)
-**Article 23** When seeking to amend these articles of incorporation, it must be done through resolution by three-fourths or more of the majority of regular members present at a general assembly attended by more than half of all regular members. However, when amending matters specified in paragraph 3 of Article 25 of the Act, certification from the supervisory authority must be obtained.
+### Article 26 (Amendments to the Articles of Incorporation)
+Amendments to these articles of incorporation shall require a resolution passed by at least a three-fourths (3/4) majority of the regular members present at a general meeting attended by at least half (1/2) of all regular members. However, in the case of amending matters prescribed in Article 25, Paragraph 3 of the Act on Promotion of Specified Non-profit Activities, certification from the competent authority must be obtained.
 
-### (Dissolution)
-**Article 24** This organization may be dissolved by resolution of the general assembly.
+### Article 27 (Dissolution)
+The corporation may be dissolved by resolution of the General Meeting.
 
-## Chapter 7: Amendment of Articles of Incorporation, Dissolution and Merger
+## Chapter 7: Amendments to the Articles of Incorporation, Dissolution and Mergers
 
-### (Attribution of Residual Assets)
-When this organization is dissolved (excluding dissolution due to merger or bankruptcy proceedings), any remaining assets shall be transferred to **Kyoto City** from among those listed in paragraph 3 of Article 11 of the Act for Promotion of Specified Nonprofit Activities.
+### Article 28 (Attribution of Residual Assets)
+In the event of the dissolution of this NPO (excluding dissolution due to merger or a decision to commence bankruptcy proceedings), any residual assets shall be transferred to Kyoto City from among those listed in Article 11, Paragraph 3 of the Act on Promotion of Specified Non-profit Activities.
 
 ## Chapter 8: Method of Public Notice
 
-### (Method of Public Notice)
-1. Public notices of this organization shall be made by posting on this organization's website.
-2. Public notice of balance sheets as specified in paragraph 1 of Article 28-2 of the Act shall also be made by the method in the preceding paragraph.
-3. When public notice by website as in the preceding paragraph cannot be made due to unavoidable circumstances, it shall be made by publication in the official gazette.
+### Article 29 (Method of Public Notice)
+1. Public notices of this NPO shall be made by posting them on this NPO's homepage.
+2. The public notice of the balance sheet as prescribed in Article 28-2, Paragraph 1 of the Act shall also be made by the method prescribed in the preceding paragraph.
+3. If, due to unavoidable circumstances, public notice via the homepage as stipulated in the preceding paragraph is not possible, public notices shall be made by publication in the Official Gazette.
 
-## Supplementary Provisions
+## Supplementary Provision
 
-1. These articles of incorporation shall take effect from the date of establishment of this organization.
-
-2. The initial officers of this organization shall be as follows:
+1. These articles of incorporation shall come into effect on the date of the establishment of this NPO.
+2. The initial officers at the time of the establishment of this NPO shall be as follows:
    - **Representative Director**: Travis Moore
-   - **Director**: Mark Daniel Kleinstrada
+   - **Director**: Mark Daniel Kleijnstra
    - **Director**: Emi Fukino
-   - **Auditor**: [Not specified]
-
-3. Notwithstanding the provisions of Article 14, the term of the initial officers of this organization shall be from the date of establishment of this organization until May 1, 2027 (Reiwa 9).  
-
-4. Notwithstanding the provisions of Article 16, the initial business plan and activity budget of this organization shall be as determined by the founding general assembly.
-
-5. Notwithstanding the provisions of Article 21, the initial fiscal year of this organization shall be from the date of establishment of this organization until March 31, 2026 (Reiwa 8).
+   - **Auditor**: Megumi Fukino
+3. Notwithstanding the provisions of Article 14, the term of office for the initial officers of this NPO shall be from the date of establishment of this NPO until [May 1, 2027].
+4. Notwithstanding the provisions of Article 16, the initial business plan and activity budget of this NPO shall be as determined by the inaugural general meeting.
+5. Notwithstanding the provisions of Article 21, the initial fiscal year of this NPO shall be from the date of establishment of this NPO until March 31, 2026. (Assuming establishment in 2025. The first fiscal year ends on the next March 31st.)
