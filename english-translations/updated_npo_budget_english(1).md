@@ -114,3 +114,25 @@
 | | | **Net Ordinary Income** | | | | **0** |
 
 **※ No other programs are planned for implementation during this fiscal year.**
+
+---
+
+## Major Changes Summary
+
+### Initial Business Year
+- **Significant Revenue Reduction**: ¥4,246,220 → ¥341,400 (92% decrease)
+- **Personnel Costs Eliminated**: Executive Director compensation reduced from ¥3,600,000 to ¥0
+- **Membership Fee Reduction**: ¥165,000 → ¥30,000 (supporting members only)
+- **Grants, Donations & Corporate Revenue Eliminated**
+- **Founder Donation Adjusted for Budget Balance**: ¥431,220 → ¥311,400
+
+### Next Business Year
+- **Significant Revenue Reduction**: ¥7,477,420 → ¥830,000 (89% decrease)
+- **All Personnel Costs Eliminated**: Executive Director and staff compensation set to ¥0
+- **Membership Fee Reduction**: ¥330,000 → ¥70,000
+- **Grants & Donations Significantly Reduced**: to ¥250,000 each
+- **New Revenue Source Added**: University partnership income ¥15,000
+- **Australia Branch Contribution Eliminated**: ¥297,420 → ¥0
+- **Founder Donation Adjusted**: equivalent ¥400,000 → ¥245,000
+
+This revised budget represents a transition to a volunteer-based operational model, eliminating all paid positions while maintaining core educational programs through external funding and founder support.
